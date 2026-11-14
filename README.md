@@ -77,9 +77,7 @@ Practising Data Structures and Algorithms in Java through problem-solving and co
 
 **Technologies:** Java, Arrays, ArrayLists, HashMaps, Sliding Window.
 
-> Project repositories will be linked here as they are published and completed.
 
----
 
 ## 📚 Currently Learning
 
