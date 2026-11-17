@@ -31,13 +31,35 @@ My interests lie at the intersection of **Data Science, Artificial Intelligence,
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🛠️ Tech Stack & Technologies
 
-### Programming Languages
+### 💻 Programming Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" />
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,php" />
+  <img src="https://img.shields.io/badge/Assembly_Language-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,react,expo,numpy,nextjs,nodejs" />
+  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,maven,gradle" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
 
 ### Data Science & Analytics
