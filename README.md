@@ -117,18 +117,19 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vera08-08&theme=tokyonight" />
-</p>
+## 📈 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vera08-08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vera08-08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
 </p>
 
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=Vera08-08&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6" />
+</p>
+
 ---
+
 
 
 ## 🐍 Contribution Snake
