@@ -138,19 +138,26 @@
 </p>
 
 ---
-
-
 ## 🤝 Let's Connect
+
+I'm always interested in connecting with fellow developers, data enthusiasts, AI researchers, and people passionate about technology.
 
 <p align="center">
   <a href="https://github.com/Vera08-08">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/vera-boateng-662696347?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=120&section=footer" />
 </p>
 
 <p align="center">
   <i>"Turning curiosity into knowledge, and knowledge into impact."</i>
 </p>
+
