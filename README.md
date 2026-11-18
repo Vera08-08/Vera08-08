@@ -36,7 +36,7 @@ My interests lie at the intersection of **Data Science, Artificial Intelligence,
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,php" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts," />
   <img src="https://img.shields.io/badge/Assembly_Language-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
