@@ -89,7 +89,7 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" />
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
 </p>
-<p align="center">Repository link coming soon</p>
+<p align="center"></p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" />
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
 </p>
-<p align="center">Repository link coming soon</p>
+<p align="center"></p>
 </td>
 <td width="50%">
 <h3 align="center">💻 Java DSA</h3>
@@ -110,7 +110,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk" />
 <img src="https://img.shields.io/badge/DSA-8B5CF6?style=flat-square" />
 </p>
-<p align="center">Repository link coming soon</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
