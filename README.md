@@ -91,7 +91,7 @@
 </p>
 <p align="center"></p>
 </td>
-</tr>
+</tr> 
 <tr>
 <td width="50%">
 <h3 align="center">📊 Student Performance Prediction</h3>
